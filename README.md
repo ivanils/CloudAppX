@@ -66,18 +66,7 @@ npm run dev
 ```
 
 ## 👨‍💻 Author
-Designed and engineered by an **IT Solution Developer & Full-Stack Architect** passionate about solving complex business problems with scalable code. 
+Designed and engineered by an **Full-Stack Engineer** passionate about solving complex business problems with scalable code. 
 
-Let's connect: [Your LinkedIn Profile URL]
+Let's connect: https://www.linkedin.com/in/ivan-llanos-santamaria/
 ```
-
-***
-
-### 📝 Qué necesitas cambiar antes de subirlo:
-1.  **[Tu Link de GitHub]**: En las instrucciones de clonación, asegúrate de poner el enlace real a tu repositorio.
-2.  **[Tu Link de LinkedIn]**: Abajo del todo, pon la URL de tu perfil.
-3.  **(Opcional pero muy recomendado)**: Justo debajo de `> **Live Demo:** [Enlace]`, añade un GIF animado de 5 segundos mostrando la matriz y el reporte PDF. Queda visualmente increíble en GitHub.
-
-Con este README, cualquier persona que inspeccione tu repositorio verá inmediatamente que no eres un programador junior que solo "pica código", sino un arquitecto de soluciones que entiende de infraestructura, optimización de recursos y valor de negocio.
-
-¿Lo integramos y preparamos el contenido exacto del post de LinkedIn? Ya tienes todo el ecosistema montado. 🚀
